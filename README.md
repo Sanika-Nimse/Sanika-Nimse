@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, Sanika Nimse
+#### About :
 
-<!--
-**Sanika-Nimse/Sanika-Nimse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm  pursuing my Bachelor's of Engineering from Zeal College of Engineering and Research, Pune.
 
-Here are some ideas to get you started:
+🔭 I am really passionate about Data Science, Data Visualization, Machine Learning, Web Development, DSA.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Selected in Institute Level Avishkar Project competition.
+
+Skills: | Python | HTML| CSS | MySQL| MongoDB| Flask| Django| C++| Tableau| PowerBI| Machine Learning| 
+- 📫 Reach me at: sanikanimse24@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanika-Nimse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/s/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_saniii_06_/) 
+
+[![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priya6971)](https://github.com/priya6971/github-readme-stats)
