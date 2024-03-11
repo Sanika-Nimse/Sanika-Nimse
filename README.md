@@ -1,16 +1,30 @@
-### Hi there, Sanika Nimse
-#### About :
+🚀 Aspiring IT Professional | Final Year IT Engineering Student
 
-🔭 I'm  pursuing my Bachelor's of Engineering from Zeal College of Engineering and Research, Pune.
+Hello there! 👋 I'm Sanika Nimse, a highly motivated and soon-to-be IT graduate with a passion for leveraging technology to solve real-world problems. Currently in my final year pursuing a Bachelor's degree in Information Technology, I am eager to embark on a dynamic career in the IT industry.
 
-🔭 I am really passionate about Data Science, Data Visualization, Machine Learning, Web Development, DSA.  
+🔍 Key Skills:
+Programming Languages: Python, C++
+Web Development: HTML, CSS
+Data analytics: Numpy, Pandas, PowerBI, Tableau, Data Analysis. 
+Database Management: MySQL, MongoDB
+Problem Solving: Strong analytical and critical thinking skills
 
-🏆 Selected in Institute Level Avishkar Project competition.
+🎓 Education:
+Bachelor of Engineering in Information Technology (Expected Graduation: July 2024)
+Savitribai Phule Pune University, Pune
 
-Skills: | Python | HTML| CSS | MySQL| MongoDB| Flask| Django| C++| Tableau| PowerBI| Machine Learning| 
-- 📫 Reach me at: sanikanimse24@gmail.com 
+🌟 Highlights:
+Proven track record of academic excellence with a focus on practical application.
+Completed many projects showcasing hands-on experience in software development.
+Adept at collaborating in team environments and effectively communicating complex technical concepts.
 
+🤝 Seeking Opportunities:
+I am actively seeking opportunities to kickstart my career in the IT sector. Whether it's software development, web development, or any other exciting IT role, I am ready to contribute my skills and passion to drive innovation and success.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanika-Nimse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/s/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_saniii_06_/) 
+💬 Let's Connect:
+I am always open to networking and learning from seasoned professionals in the IT community. If you share a passion for technology and innovation, I'd love to connect with you!
 
-[![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanika-Nimse)](https://github.com/Sanika-Nimse/github-readme-stats)
+📧 Contact:
+Feel free to reach out via LinkedIn messaging or email at sanikanimse24@gmail.com
+
+Thank you for visiting my profile, and I look forward to connecting with like-minded professionals and exploring exciting career opportunities!
