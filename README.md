@@ -25,6 +25,6 @@ I am actively seeking opportunities to kickstart my career in the IT sector. Whe
 I am always open to networking and learning from seasoned professionals in the IT community. If you share a passion for technology and innovation, I'd love to connect with you!
 
 📧 Contact:
-Feel free to reach out via LinkedIn messaging or email at sanikanimse24@gmail.com
+Feel free to  email at sanikanimse24@gmail.com
 
 Thank you for visiting my profile, and I look forward to connecting with like-minded professionals and exploring exciting career opportunities!
