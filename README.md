@@ -1,7 +1,7 @@
 ### Hi there, Sanika Nimse
 #### About :
 
-🔭 I'm  pursuing my Bachelor's of Engineering from Zeal College of Engineering and Research, Pune.
+🔭 I'm  pursued my Bachelor's of Engineering from Zeal College of Engineering and Research, Pune.
 
 🔭 I am really passionate about Data Science, Data Visualization, Machine Learning, Web Development, DSA.  
 
