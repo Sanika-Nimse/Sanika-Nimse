@@ -7,7 +7,7 @@
 
 🏆 Selected in Institute Level Avishkar Project Competition as well as Zonal Level  Project Competition.
 
-Skills: | Python|C/C++| Core Java | Advanced Java | HTML| CSS |Bootstrap| MERN| MySQL| MongoDB|JavaScript| JDBC| Hibernate| Tableau| Machine Learning| 
+Skills: | Python| C/C++ | Core Java | Advanced Java | HTML | CSS | Bootstrap | MERN | MySQL | MongoDB | JavaScript | JDBC | Hibernate | Tableau | Machine Learning | 
 - 📫 Reach me at: sanikanimse24@gmail.com
 - LinkedIn:- https://www.linkedin.com/in/sanika-nimse-287219246/
 
