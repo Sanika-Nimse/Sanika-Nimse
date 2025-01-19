@@ -3,11 +3,11 @@
 
 🔭 I'm  pursued my Bachelor's of Engineering from Zeal College of Engineering and Research, Pune.
 
-🔭 I am really passionate about Data Science, Data Visualization, Machine Learning, Web Development, DSA.  
+🔭 I am really passionate about Data Science, Data Visualization, Machine Learning, Web Development,Artifical Intelligence, Backend, Frontend ,DSA, MERN Stack.  
 
-🏆 Selected in Institute Level Avishkar Project competition.
+🏆 Selected in Institute Level Avishkar Project Competition as well as Zonal Level  Project Competition.
 
-Skills: | Python | HTML| CSS | MySQL| MongoDB| Flask| Django| C++| Tableau| PowerBI| Machine Learning| 
+Skills: | Python|C/C++| Core Java | Advanced Java | HTML| CSS |Bootstrap| MERN| MySQL| MongoDB|JavaScript| JDBC| Hibernate| Tableau| Machine Learning| 
 - 📫 Reach me at: sanikanimse24@gmail.com
 - LinkedIn:- https://www.linkedin.com/in/sanika-nimse-287219246/
 
